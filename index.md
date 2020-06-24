@@ -10,3 +10,5 @@ any plain text as description for this any character. This is part of an online 
 famous quote by this character:
 > software development is really annoying
 
+<img src="https://image.freepik.com/fotos-kostenlos/hacker-mit-laptop_23-2147985341.jpg" />
+
